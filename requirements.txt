@@ -1,0 +1,12 @@
+Pillow
+h5py
+joblib
+matplotlib
+mpl_toolkits
+numpy
+pandas
+scikit-image
+scikit-learn
+scipy
+torch
+torchvision
